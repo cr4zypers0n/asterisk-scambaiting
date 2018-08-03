@@ -57,7 +57,9 @@ apt-get install git-core
 ```
 
 Install config files
+```
 git clone https://github.com/nickbouwhuis/asterisk-scambaiting.git asterisk
+```
 
 ## Update configuration files
 
