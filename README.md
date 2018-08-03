@@ -3,7 +3,7 @@ Asterisk config for scambaiting 🧔🏾
 
 ## Requirements
 You need:
-* An account and phone number with (Callcentric)[https://callcentric.com].
+* An account and phone number with [Callcentric](https://callcentric.com).
 (Don't worry, it's free.)
 * A phone. This could be a softphone on your PC, or a physical IP phone.
 * Something to run this on. Preferably 24/7. Maybe a 🥧?
