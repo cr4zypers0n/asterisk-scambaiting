@@ -27,14 +27,9 @@ rm -rf asterisk*
 
 Get Asterisk source:
 
-Asterisk 11
+Asterisk 15
 ```
-wget http://downloads.asterisk.org/pub/telephony/asterisk/asterisk-11-current.tar.gz
-```
-
-Asterisk 13
-```
-wget http://downloads.asterisk.org/pub/telephony/asterisk/asterisk-13-current.tar.gz
+wget http://downloads.asterisk.org/pub/telephony/asterisk/asterisk-15-current.tar.gz
 ```
 
 
